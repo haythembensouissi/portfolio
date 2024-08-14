@@ -7,14 +7,14 @@ const services=[
     num:"01",
     title:"Web Development",
 
-    description:"Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+    description:"If you want to develop a website I'm at your service",
     href:""
   },
   {
     num:"02",
     title:"UI/UX design",
 
-    description:"Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+    description:"If you want to design a website I can do it for you ",
     href:""
   },
 ]
